@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why the Church of England, as well as dissenters should make their address of thanks to the King's Majesty, for his late gracious declaration for liberty of conscience</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58277</idno>
+            <idno type="STC">Wing R587</idno>
+            <idno type="STC">ESTC R6487</idno>
+            <idno type="EEBO-CITATION">12801059</idno>
+            <idno type="OCLC">ocm 12801059</idno>
+            <idno type="VID">94043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why the Church of England, as well as dissenters should make their address of thanks to the King's Majesty, for his late gracious declaration for liberty of conscience</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1685-1688 : James II). --  His Majesties gracious declaration to all his loving subjects for liberty of conscience.</term>
+               <term>Freedom of religion --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94043:1"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:94043:1"/>
+            <!-- PDF PAGE 50 -->
+            <p>REASONS WHY THE <hi>Church of England,</hi> As well as DISSENTERS, Should make Their ADDRESS of THANKS TO THE King's Majeſty, For His late Gracious DECLARATION FOR <hi>Liberty of Conſcience.</hi>
+            </p>
+            <p>Publiſhed with Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, for His Houſhold and Chappel. 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94043:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="3" facs="tcp:94043:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>REASONS WHY THE Church of <hi>England,</hi> As well as DISSENTERS, <hi>Should make thier Addreſs of Thanks to the King's Majeſty, for His late Gracious Declaration for Liberty of Conſcience.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Declaration of Indulgence was re<g ref="char:EOLhyphen"/>ceiv'd by us with all imaginable Ex<g ref="char:EOLhyphen"/>preſſions of Joy and Thankfulneſs; for we are well aſſur'd, that by it Relief is given to the Body of the Nation, which of late Years has been expos'd to ſeveral ſorts of Mi<g ref="char:EOLhyphen"/>ſery: And therefore we cannot but be amaz'd to hear, That any of our <hi>Clergy</hi> (as you write) have expreſ<g ref="char:EOLhyphen"/>ſed themſelves indecently about his Majeſties grant<g ref="char:EOLhyphen"/>ing it, and reproachfully of the Diſſenters thankful receiving it.</p>
+            <p>When in the Declaration, we obſerv'd his Maje<g ref="char:EOLhyphen"/>ſty
+<pb n="4" facs="tcp:94043:3"/>
+               <!-- PDF PAGE 52 -->in the Firſt place, to publiſh to the whole King<g ref="char:EOLhyphen"/>dom his <hi>Royal Reſolution to protect and maintain the Archbiſhops, Biſhops and Clergy, and all others of the Church of</hi> England, <hi>in the free Exerciſe of their Religi<g ref="char:EOLhyphen"/>on as by Law Eſtabliſh'd,</hi> and <hi>in the Quiet and full En<g ref="char:EOLhyphen"/>joyment of all their Poſſeſſions, without any Moleſtation or Diſturbance whatſoever,</hi> we doubted not but that our Clergy, as in Duty bound, would have made it their Work to poſſeſs the People with the Greatneſs and Tranſcendency of His Majeſty's Grace towards them, and of the neceſſity of their rendring to his Majeſty their humbleſt and moſt hearty Thanks; for it might be reaſonably expected, that as <hi>Edward</hi> VI. and Queen <hi>Elizabeth,</hi> on their aſcending the Throne, did immedi<g ref="char:EOLhyphen"/>ately ſuſpend the Execution of thoſe Penal Laws that were againſt Men of their own Religion, and made all the haſte they could to Eſtabliſh the Church of <hi>England:</hi> So His preſent Majeſty might not only give an Indulgence to the Roman Catholic, but with the ſame ſpeed make that Religion the eſtabliſh'd Reli<g ref="char:EOLhyphen"/>gion of the Nation.</p>
+            <p>But the King, as many of His Royal Predeceſſors of the ſame Communion with him, being greatly concern'd for the Welfare of all his People, is reſolv'd to do his utmoſt that they may live at Eaſe and Quiet under Him. And having the Advantage of making his Reflections on the Conduct of the Four laſt Reigns, he finds no means more likely to obtain this End, than an entire <hi>Liberty of Conſcience.</hi> And altho our Clergy are ſo diſturb'd at the Thoughts of the Diſ<g ref="char:EOLhyphen"/>ſenters Eaſe, yet, if they would impartially conſider it, they muſt needs ſee, that the King in giving Li<g ref="char:EOLhyphen"/>berty to all, proceeds on the <hi>only</hi> Principle, by which
+<pb n="5" facs="tcp:94043:3"/>
+               <!-- PDF PAGE 52 -->he can give it them. For had it not been His Ma<g ref="char:EOLhyphen"/>jeſties Senſe and Opinion, That <hi>Conſcience ought not to be conſtrain'd, nor People forc'd in Matters of meer Religion,</hi> His Majeſty muſt neceſſarily Judge it His Duty to Almighty God to endeavour an Eſtabliſh<g ref="char:EOLhyphen"/>ment of the Roman Catholic Religion, to the Subver<g ref="char:EOLhyphen"/>ſion of the Church of <hi>England.</hi> To this Principle then, <hi>viz.</hi> That <hi>Conſcience ought not to be conſtrain'd,</hi> are the Church of <hi>England</hi> owing for this Protection His Majeſty is pleas'd to give 'em, and this Principle is of ſuch a kind, as extends it ſelf to every Man of Con<g ref="char:EOLhyphen"/>ſcience throughout the Kingdom: So that the Mat<g ref="char:EOLhyphen"/>ter will at laſt iſſue here, The Clergy muſt Thank His Majeſty for His Granting to all His Subjects Liberty of Conſcience, or, by their not doing it, plainly inti<g ref="char:EOLhyphen"/>mate, That Conſcience ought to be conſtrain'd, and conſequently, that it's the King's Duty to alter His Reſolution of Protecting the Church of <hi>England,</hi> which in His Majeſties Opinion is almoſt, if not altogether ſo Heretical, as the Fanaticks are.</p>
+            <p>Beſides, it may not be amiſs to obſerve, that the Church of <hi>England</hi> her ſelf dares not diſſent from His Majeſty touching Liberty of Conſcience: For as King <hi>James,</hi> and Sir <hi>Edward Coke,</hi> affirm, the Papiſts were never puniſh'd for their Religion; nor, as others ſay, have the Fanaticks, ſince 1662. ſuffered for their Con<g ref="char:EOLhyphen"/>ſciences; ſo that tho the Religion of the One Party has been made the Overt-act of Treaſon, and that of the other of Sedition, yet none are puniſh'd for Mat<g ref="char:EOLhyphen"/>ters of meer Religion, whereby the Principle, that Con<g ref="char:EOLhyphen"/>ſcience ought not to be compell'd, is yielded; and ſo long as the divers Religions in the Kingdom do not encourage, nor countenance a practiſing on the Ci<g ref="char:EOLhyphen"/>vil
+<pb n="6" facs="tcp:94043:4"/>
+               <!-- PDF PAGE 53 -->Government, no Man ought to ſuffer for his Reli<g ref="char:EOLhyphen"/>gion. And Experience aſſures us, that it's not <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> but <hi>Reſtraints</hi> laid on Conſcience, that has been moſt prejudicial to the Nation and its Government. And if we do compare the Reigns of thoſe Princes that have been on the Throne ſince the Diſſenters have been numerous, with the Reigns of thoſe that have been long before, we may ſee Reaſons ſtrong enough to conclude, that the indulging Diſſenters from the eſtabliſh'd Hierarchy, is become an effectual Mean to keep the <hi>Mitre</hi> in Subjection to the <hi>Crown.</hi> It's well known, that anciently the Intereſt of Six and Twenty Biſhops in this Nation was ſo very great, that they were a Terror unto Kings. The <hi>Barons</hi> were not then ſo Potent, but the Biſhops made as great a Fi<g ref="char:EOLhyphen"/>gure; and as the Barons then having many Tenants, who all ſwore Homage to their Lords, did oft raiſe ſturdy Rebellions; in like manner ſo the Biſhops, to whom all the Inferiour Clergy ſwore Obedience. But 'tis the Alteration made on the Baronies that hath put an end to Baron-Wars; and ſeeing no Alterati<g ref="char:EOLhyphen"/>on hath been yet made on the Hierarchy, what, un<g ref="char:EOLhyphen"/>leſs a great Part of the Clergy (now call'd Noncon<g ref="char:EOLhyphen"/>formiſts) had withdrawn their Obedience from the Biſhops, thereby making it the Intereſt of the Biſhops to Submit unto their Prince, as well as by weakning 'em, put 'em out of a Capacity of Reſiſting, what elſe has put a check to Prelatic Inſolence? For the conformable Clergy are as much oblig'd <hi>now</hi> to ſwear Obedience to their Biſhops, as heretofore; and had there not been Diſſenters from the Eſtabliſh'd Hierar<g ref="char:EOLhyphen"/>chy, Six and Twenty Biſhops, by the Help of their In<g ref="char:EOLhyphen"/>feriour Clergy, and the Aid of their Attendants and o<g ref="char:EOLhyphen"/>ther Adherents, might have been as able, and no doubt
+<pb n="7" facs="tcp:94043:4"/>
+               <!-- PDF PAGE 53 -->as willing, not only to confront the Nobility, but even to Inſult over their Prince.</p>
+            <p>And why muſt the Fanatick, of all Men in the World, be guilty of that Ingratitude that's worſe than Brutiſm? Has not the King, by His Indulgence, brought 'em out of a Fiery Furnace, and made 'em Partakers of the Comforts of ſitting down under their own Vines? Let's but conſider the Uſage they have had from the Church of <hi>England</hi> ſince Sixty Two, and ſee whether they have not reaſon to rejoice and be thankful for what the King has done for them.</p>
+            <p>You cannot but remember, that when we return'd with His late Majeſty, how ſevere ſome of the Clergy were againſt the Fanaticks, aſſuring us, that they were but few, and theſe very illiterate, inconſiderable, and obſtinate; though ſince we find 'em to be Men of ſome Senſe, Moderation, and Candor, and, in good earneſt, the Trading part of the Nation. However, we being poſſeſs'd with an Idea of their being unworthy of the leaſt Favor of the Government, the Terms of their Communion with our Church were made ſo very ſtrict, that ſuch as would at firſt have ſubmitted unto moſt of our Ceremonies, and to our Biſhops too, as the King's Miniſters, were neceſſitated to become Non<g ref="char:EOLhyphen"/>conformiſts, for not ſubſcribing Aſſent and Conſent to the Divine Right of Epiſcopacy; a thing our Nobi<g ref="char:EOLhyphen"/>lity and Gentry never lik'd: And becauſe they could not abſolve thoſe, who voluntarily took the Covenant, and ſtill think themſelves oblig'd in Conſcience by it, from the Obligation of that Oath, which no doubt was enjoyn'd the Clergy, not ſo much to ſecure our Church, as to make Fanaticks; for, 'twas exacted but for Twen<g ref="char:EOLhyphen"/>ty
+<pb n="8" facs="tcp:94043:5"/>
+               <!-- PDF PAGE 54 -->Years, and our Church, ever ſince that time expir'd, firmly enough eſtabliſhed.</p>
+            <p>And whereas theſe Nonconforming Miniſters, either becauſe they judged themſelves conſecrated to that Holy Function, or becauſe they being depriv'd of all their Promotions, had no other way to preſerve their Families from periſhing, continued to preach; an Act was made againſt their Conventicling, in which that <hi>Sanguinary Law</hi> of the <hi>Thirty Fifth</hi> of <hi>Eliz.</hi> was decla<g ref="char:EOLhyphen"/>red to be in force againſt them, and on the Third Con<g ref="char:EOLhyphen"/>viction for Preaching at a Conventicle, they were to be baniſh'd: And by the <hi>Oxford</hi>-Act theſe Miniſters were actually baniſh'd from all Cities and Towns Corporate; ay, and from the Houſes of their Friends or Relations, as well as their own Families, if convi<g ref="char:EOLhyphen"/>cted for Preaching in either of thoſe Places, and could not take that Teſt, which ſince has been caſt out of the Houſe of Lords, when brought in with a Deſign of being more univerſally impos'd. Beſides, the 22 <hi>Car.</hi> 2. by which one Man ſuffers for anothers Fault, according unto which, Men have been convi<g ref="char:EOLhyphen"/>cted, diſſeis'd of their Property, and impoveriſh'd without a Jury, or their being call'd forth to ſpeak for themſelves. For, on theſe clandeſtine Convictions, Warrants have been granted out for Six, Eight, Ten, or Fourteen Conventicles at a time; ſo that many, before they could in the leaſt imagin, that they lay expos'd to the Penalty of the Law, have had their Houſes broken open by the Informers, Conſtables, and other Officers, who, like ſo many <hi>Dragoons,</hi> have for a long time kept the Poſſeſſion, plundring and ſteal<g ref="char:EOLhyphen"/>ing, as well as diſtreining their Goods, And what was taken under colour of Law, though of greater
+<pb n="9" facs="tcp:94043:5"/>
+               <!-- PDF PAGE 54 -->value than the Fine amounted to, yet no return has been made of the Overplus, nor were any by the Sta<g ref="char:EOLhyphen"/>tute required to do it. And after the Clergy had by their many Pulpit-Invectives inſtigated the Inferior Magiſtrate to Severity, this Statute is judg'd too mild, and the Meetings of the Fanaticks, when only for a Civil Viſit, are by an <hi>Innuendo</hi> made to be with an in<g ref="char:EOLhyphen"/>tention to worſhip God, and that Intention interpre<g ref="char:EOLhyphen"/>ted to be an unlawful Act at Common Law, and ad<g ref="char:EOLhyphen"/>judg'd to be a Rout or Riot, which has been contrary to what the Learned in the Laws have with much boldneſs affirm'd, who ſay, That to worſhip God, is no Fault at Common Law; it is but <hi>malum prohibitum,</hi> and therefore cannot be made Routs or Riots. But this is not the whole of theſe Mens Miſery; for ſo common were the manifeſt Perjuries of Informers, and ſo great the Reputation given 'em, that when the Diſ<g ref="char:EOLhyphen"/>ſenters have been in a Journey from home, they have been convicted for being at Routs or Riots ſeveral Miles diſtant. To all which let's add the many Deſolations that have proceeded from the proſecuting 'em on the 23 <hi>Eliz.</hi> under the Laſh of which, as many worthy Lawyers declar'd, they fell not, and (what muſt not eſcape our Obſervation) when ſeveral great Lawyers were prepar'd to argue on the Diſſenters behalf, they were denied it, becauſe one of the Juſtices then on the Kings Bench told 'em, That he had ſeen an old Queen <hi>Elizabeth</hi>'s Proclamation that had fully decided the Caſe, and ſo without an Hearing were over-rul'd. And tho by this Law they were condemn'd to no leſs <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han 20 <hi>l. per Menſem</hi> for not coming to the Common-Prayer, this was too little; the <hi>Doctors Commons</hi> Gen<g ref="char:EOLhyphen"/>tlemen therefore muſt have an Hand too in this Matter, who exceeding all Bounds, have been the Ruine of
+<pb n="10" facs="tcp:94043:6"/>
+               <!-- PDF PAGE 55 -->many Families. But theſe Methods not ridding the Land of 'em, the 35 of <hi>Eliz.</hi> which iſſues either in the Death or Baniſhment of all thoſe who were con<g ref="char:EOLhyphen"/>victed for being at a Conventicle <hi>that Month</hi> in which they went not to Church, (notwithſtanding the great Doubts that many have of its being in force) is put afreſh into Execution, and on it many are Indicted, and ſome Baniſhed.</p>
+            <p>Time would fail us to tell you of the many caſt into <hi>Newgate</hi> in the Viſitation time, when the <hi>Contagi<g ref="char:EOLhyphen"/>on</hi> was within thoſe Walls; that there periſhed; of the ſeveral Hundreds, that in this and ſeveral other Gaols, have ſince miſerably ended their Days; as alſo to acquaint you with the Endeavors that our Clergy have uſed to encreaſe their Bonds; and when ſome in Parliament were diſpoſed to favour 'em, what Me<g ref="char:EOLhyphen"/>thods were taken to hinder a Bill of Comprehenſion and Indulgence. To write an Hiſtory of the Practi<g ref="char:EOLhyphen"/>ces of ſome of our Zealots, the fair Promiſes they made to enſnare the Presbyterian Parliament-men to a Compliance with them, in oppoſing His late Maje<g ref="char:EOLhyphen"/>ſty's Gracious Indulgence, and their forſaking 'em as ſoon as the Declaration was recall'd, the Crafts us'd to cajole the poor Fanatick the laſt Parliament that was at <hi>Weſtminſter</hi> in the late King's Reign, by thoſe who in the Houſe, would ſpeak as if their very Souls were for the Relief of Tender Conſciences, but yet would Boat it over to <hi>Lambeth</hi> to conſult how to ſpoil all: Even <hi>Shaftsbury</hi> himſelf was ſuch an Enemy to the Diſſenters, that when he was deſired by a Gentleman of that Parliament, and from whom I had it, not to poſtpone the Bill of Comprehenſion and Indulgence to that of Excluſion, his Reply was, <hi>Let the Fanatick
+<pb n="11" facs="tcp:94043:6"/>
+                  <!-- PDF PAGE 55 -->alone, what need we concern our ſelves ſo much for them?</hi> For if we firſt indulge them, they'll moſt undoubtedly relinquiſh us, and we ſhall hear no more of their be<g ref="char:EOLhyphen"/>ing for the Secluding Bill. To write a full Hiſtory of all this, would require more Paper than is now allot<g ref="char:EOLhyphen"/>ted us; and ſeeing theſe Hints are enough to ſhew the Miſery the Fanatick has been expos'd unto, we may with the leſs regret wave it, and immediately draw to this Concluſion, That <hi>A Deliverance from all theſe Miſeries deſerves the greateſt Thanks.</hi> What leſs can the Diſſenters do? In a word, if they accept of His Majeſty's Grace, are they not worſe than Brutes if they preſent not their Addreſs of Thanks? And, unleſs they accept of His Majeſty's Grace, they muſt reſolve to be fond of Miſery. They muſt not only ſubmit to Church of <hi>England</hi> Severity, but muſt ſcorn and deſpiſe all offer'd Relief, and be wheedled by one part of the Church of <hi>England</hi> into the Sin of Un<g ref="char:EOLhyphen"/>thankfulneſs, that the other part may have juſt cauſe of Complaint againſt them to His Majeſty; that, if poſſibly, while in this Life, they may put themſelves out of all hopes of Eaſe. Have they not ſufficiently felt, in His late Majeſty's Reign, what 'tis to reject Royal Grace, that they muſt make a freſh Experiment of it once more? If not, why trouble you them with the noiſe of the <hi>Law,</hi> the <hi>Law?</hi> Muſt they all be good Lawyers, before they can be good Chriſtians, or good Men? Some of 'em remember, that within a few Years, ſome Noble Lords, no Friends to Arbitrary Government, were for petitioning the King to <hi>Suſpend Penal Laws,</hi> rather than <hi>Repeal</hi> 'em; and, they have met with a Vote of a late Parliament, That the Penal Laws ought not to be put in Execution againſt Diſ<g ref="char:EOLhyphen"/>ſenters; and, for ought they know, on very good
+<pb n="12" facs="tcp:94043:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->Reaſons of State: And, if they muſt be <hi>Suſpended,</hi> who muſt do it, the King, or a Juſtice of Peace? Think on theſe things, and conſider them well, and we doubt not but you'll be of our Mind.</p>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
